@@ -2,6 +2,8 @@
 Serververwaltung als Webpage
 
 # Frontend Installation
-´´cd frontend  
+```
+cd frontend  
 npm install  
-npm run dev´´
+npm run dev
+```
