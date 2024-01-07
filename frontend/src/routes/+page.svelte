@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="container">
+    <h1>LOGIN</h1>
+    <input type="email" name="" id="" required>
+    <input type="password" name="" id="" required>
+    <button type="submit">Login</button>
+</div>
