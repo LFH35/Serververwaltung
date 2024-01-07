@@ -1,3 +1,7 @@
+<style lang="scss">
+    @import 'style.scss';
+</style>
+
 <div class="container">
     <h1>LOGIN</h1>
     <input type="email" name="" id="" required>
